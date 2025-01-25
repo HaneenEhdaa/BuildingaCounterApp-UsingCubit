@@ -12,3 +12,7 @@ This Flutter application demonstrates a simple counter app using **Flutter Bloc*
 - Dynamic state updates with **BlocBuilder**.
 - Dialog notifications for specific state changes using **BlocListener** and **BlocConsumer**.
 - Modularized and reusable components.
+
+
+### Demo 
+https://github.com/user-attachments/assets/a45902d7-653c-4b83-8094-4e63843fee46
